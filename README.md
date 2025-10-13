@@ -1,6 +1,6 @@
 # bookbot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project! This program get's basic statistics on a piece of text from either a **.txt** or **.pdf**:
+BookBot is my first [Boot.dev](https://www.boot.dev) project! This program get's basic statistics on a piece of text from either a **.txt** or **.pdf** file:
 
 ```
 pip3 install -r requirements.txt

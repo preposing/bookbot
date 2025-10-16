@@ -4,7 +4,7 @@ BookBot is my first [Boot.dev](https://www.boot.dev) project! This program get's
 
 ```
 pip3 install -r requirements.txt
-python3 main.py <path_to_book> <txt/pdf>
+python3 main.py <path_to_book>
 ```
 
 ![sdfsdf](https://pngimg.com/uploads/book/book_PNG51067.png)
